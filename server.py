@@ -9,7 +9,7 @@ class Server:
     
     def accept_connections(self):
         ip = socket.gethostbyname(socket.gethostname())
-        port = 10000
+        port = int(input('Enter desired port --> '))
 
         self.s.bind((ip,port))
         self.s.listen(100)
