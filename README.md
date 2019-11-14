@@ -12,5 +12,8 @@ A simple file transfer server written in Python 3, that allows the user to downl
 - Threading Module (standard library)
 - OS Module (standard library)
 
+## Contributing
+Since this is a simple project, this repository is unlikely to be majorily changed, however if you wish to contribute with bug fixes/new features/code improvements, pull requests are welcome. Issues are also welcome if you want to discuss or raise an issue.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
